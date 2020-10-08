@@ -1,0 +1,8 @@
+.vscode/
+.idea/
+*~
+*.out
+*.o
+*.a
+*.dll
+*.so
